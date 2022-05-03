@@ -1,0 +1,4 @@
+module CatBridge {
+    header "BridgeHeader.h"
+    export *
+}

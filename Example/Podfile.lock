@@ -1,0 +1,16 @@
+PODS:
+  - Cat (0.1.0)
+
+DEPENDENCIES:
+  - Cat (from `../`)
+
+EXTERNAL SOURCES:
+  Cat:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Cat: 7effc702664549e0a11fc85c7ef2d4d8869df4ca
+
+PODFILE CHECKSUM: 2637d16f45294a3092a9b45d09a615ce0980bfab
+
+COCOAPODS: 1.11.2

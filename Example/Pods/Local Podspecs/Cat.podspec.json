@@ -1,0 +1,22 @@
+{
+  "name": "Cat",
+  "version": "0.1.0",
+  "summary": "A short description of Cat.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Panda/Cat",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Panda": "pandaleecn@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Panda/Cat.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Cat/Classes/**/*"
+}
